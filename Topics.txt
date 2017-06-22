@@ -1,10 +1,22 @@
+Section 1: Hardware and Admin
 Basic networking, port forwarding and LANs for clustering
 Linux installation, configuration and deployment on Pi hardware
 Linux installation, configuration and deployment in virtual machines, featuring puppet
 Storage and file systems
-Distributed computing utilizing Torque and MPI
-High throughput computing utilizing HTCondor
-Programming models: Message passing, client-server, peer-to-peer, broker computing...etc
-Higher level communications
-Grid Computing, globus, flocking, monitoring and utilizing
 
+Section 2: Serial Tasks
+High throughput computing utilizing HTCondor
+
+
+Programming models: 
+Message passing, client-server, peer-to-peer, broker computing...etc
+Higher level communications
+Distributed computing utilizing Torque and MPI
+Condor/DAG
+
+Map/Reduce and HDFS:
+
+Grid Computing:
+Flocking
+GSI/Middleware Globus
+gridftp/file management
