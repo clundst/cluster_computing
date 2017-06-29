@@ -15,6 +15,9 @@ Distributed computing utilizing Torque and MPI
 Condor/DAG
 
 Map/Reduce and HDFS:
+Using the filesystem
+Using the map/reduce (Word count, Friends of friends)
+
 
 Grid Computing:
 Flocking
